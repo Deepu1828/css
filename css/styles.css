@@ -1,0 +1,174 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.games {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.challenge {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+
+.contact-me {
+  font-size: 1.5rem;
+}
+
+.btn {
+  background-color: #00909e;
+  border-radius: 42px;
+  border: 3px solid #00918e;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 16px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.btn:hover {
+  background-color: #6bc5d2;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #594a4e;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #e6f8f9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 0 auto 0 auto;
+  background-color: #698474;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+a {
+  margin: 60px 30px;
+}
+
+
+
+a:hover {
+  color: #dedede;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 10px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.middle-cloud{
+  position: absolute;
+  right: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.btn {
+  text-decoration: none;
+}
+
+.employee{
+  margin-top: 50px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin: auto 15px auto auto;
+  width: 16px;
+  }
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  margin: auto auto auto 15px;
+}
